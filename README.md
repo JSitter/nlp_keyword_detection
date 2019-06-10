@@ -4,9 +4,11 @@ Recognizing keywords is useful for document retrieval and classification. While 
 
 ## Requirements
 
-This repo requires Docker to run. Before running this repo make sure docker is installed on your machine. Installation instruction can be found [here](https://docs.docker.com/install/).
+This repo is setup to use Docker. Docker installation instruction can be found [here](https://docs.docker.com/install/).
 
-## Installation
+Otherwise a suitable Python environment can be created using the provided `requirements.txt` file.
+
+## Installation with Docker
 
 Download this repository and `cd` into the project directory.
 
